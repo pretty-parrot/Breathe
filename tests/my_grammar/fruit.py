@@ -5,6 +5,6 @@ from ..testutils import DoNothing
 Breathe.add_commands(
     None,
     {
-        "parsnip": DoNothing(),
+        "apple": DoNothing(),
     }
 )
